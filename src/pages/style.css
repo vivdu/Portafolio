@@ -11,3 +11,6 @@
 .error404 img {
     width: 50px;
 }
+.error {
+    background-color: midnightblue;
+}
